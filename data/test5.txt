@@ -1,0 +1,10 @@
+0;
+2310.39 C.aiff C.aiff;
+1;
+1939.86 A.aiff B.aiff;
+2;
+3990.02 D.aiff C.aiff;
+3;
+2430.93 C.aiff C.aiff;
+4;
+3630.66 D.aiff B.aiff;
